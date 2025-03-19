@@ -9,3 +9,5 @@ This repository contains scripts used to analyze MG genome and create figures ou
 - [phylogenetic trees.sh](phylogenetic trees.sh) - Creates an alingment for all strain genes, then run the alignment through IQ-TREE's model finder, and output the results.
 - [Subplot_dis_graph.py](Subplot_dis_graph.py) - Creates Figure 1.
 
+----------------------------------------------------------------
+Acknowledgement: Thanks to Lily Smith and Poppy Daly for help with the code.
