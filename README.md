@@ -1,6 +1,6 @@
 # MG motility loss scripts
 
-This repository contains scripts used to analyze MG genome and create figures our dissertation. Raw data is not provided.
+This repository contains scripts used to analyze MG genome and create figures for our dissertation. Raw data is not provided.
 
 - [Mutation_matrix_creation.py](Mutation_matrix_creation.py) - Generate a mutation matrix displaying the presence or absence of mutations in all 789 genes across 78 strains. The matrix should indicate whether each gene in each strain contains at least one non-synonymous mutation, stop codon mutation, or start codon mutation.
 - [Filter_faster_file_creation.py](Filter_faster_file_creation.py) - Creates a fasta file containing all genes mutated in non-motile strains but not in motile strains, corresponding protein sequences and specify which non-motile strains have these mutations.
