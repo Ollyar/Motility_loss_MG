@@ -10,4 +10,4 @@ This repository contains scripts used to analyze MG genome and create figures fo
 - [Subplot_dis_graph.py](Subplot_dis_graph.py) - Creates Figure 1 -- AI assisted code creation.
 
 ----------------------------------------------------------------
-Acknowledgement: Thanks to Lily Smith and Poppy Daly for help with the code.
+Acknowledgement: Thanks to Lily Smith (ls976@exeter.ac.uk) and Poppy Daly (pd428@exeter.ac.uk) for help with the code.
